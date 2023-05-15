@@ -510,6 +510,12 @@ Borrowed from **~[LAT]~** *fānāticus*,  *fānum*(shrine, temple, sanctuary) + 
 
 ### FANTASTIQUE
 
+### le fleuve
+
+From **~[OldFr]~** *fleuve*, from **~[LatOldFr]~** *flueve* ~(12th cent.)~, according to the traditional view, a dissimilated form of *fluive, fluie*, a re-borrowing of **~[LAT]~** *fluvius* (“stream”)
+
+*cf.* : *rivière*
+
 ### FORMITABLE
 
 ---
@@ -775,6 +781,12 @@ From proposer, from **~[OldFr]~** proposer, borrowed from **~[LAT]~** *prōpōn�
 
 *cf.* *pondre* : to lay (eggs), poser
 
+### polluant
+
+deverb of "polluer", from **~[LAT]~** "polluere" : to defile, soil, or pollute.
+
+>Still, the concept of **polluting** in ancient Rome was somewhat different from what we understand today. In Roman times, pollution referred more generally to the idea of ritual impurity or defilement, rather than environmental contamination caused by human activity. This concept of pollution was tied to religious beliefs and practices and had a significant impact on daily life and social interactions. For example, individuals who were considered polluted could not participate in religious ceremonies or other social activities until they had undergone a ritual purification process. Over time, the meaning of pollution has evolved to encompass a wider range of phenomena, including environmental pollution caused by human activity.
+
 ### POSER
 
 From **~[OldFr]~** poser, from **~[VulLAT]~** pausāre < **~[LAT]~** *pausāre*, present active infinitive of *pausō*, influenced in meaning by *pōnō*
@@ -794,6 +806,14 @@ doublet : pourvoir
 
 ## **\[R\]**
 
+### le raisin
+
+From **~[OldFr]~**  raisin, from **~[LatLAT]~** *racīmus*, from **~[LAT]~** *racēmus* : cluster or bunch of grapes.
+
+Doublet : *racème*.
+
+> [see more of raison's variations in English](https://www.youtube.com/watch?v=SoFxrwuMuQs)
+
 ### REPOSER
 
 From **~[OldFr]~** *reposer*, from **~[LateLAT]~** *repausāre*, from **~[LAT]~** pausō (pause, halt, stop, rest)
@@ -807,6 +827,13 @@ borrowed from **~[LAT]~** *respectō*, re- + spectō, (cf. respectus)
 borrowed from **~[LAT]~** respīrāre: re- + spīrō (“to breathe, blow”).
 
 *cf.* inspirer, esprit (from **~[LAT]~** *spiritus*)
+
+### la rivière
+
+From **~[MidFr]~** *riviere*, from **~[OLdFr]~** *riviere*, from **~[VulLAT]~** *\*rīpāria* (“riverbank, seashore, river”), from the **~[LAT]~** *rīpārius* (“of a riverbank”), ultimately *rīpa* (“river bank”), whence *rive* : river bank
+
+>*rivière* **~[ENG]~** :
+>A necklace of diamonds or other precious stones, especially one of several strings.
 
 ### LE REZ-DE-CHAUSSÉE
 

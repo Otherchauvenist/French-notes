@@ -4,8 +4,8 @@
 </font> <font size=5>
 
 <span style="font-family: Trajan Pro;">
-lexicon emoji
-
+<!-- lexicon emoji
+<
 | Emoji | Code |
 |-------|------|
 | 👍    | `:thumbsup:` |
@@ -16,7 +16,7 @@ lexicon emoji
 | 🌧️    | `:cloud_with_rain:` |
 | 🎉    | `:tada:` |
 | 🍕    | `:pizza:` |
-| 🎵    | `:musical_note:` |
+| 🎵    | `:musical_note:` | -->
 
 </font>
 </span>
@@ -47,12 +47,12 @@ Je n’en ai aucune idée.
 
 *e.g.* Voilà comment quatre candidates ont répondu à la question.
 
-Voilà me ![^1] 
+Voilà me ![^1]
 [^1]:Here I am!
 
 Quand ils arrivent à la gare, ils monteront aussitôt dans leur wagon.
 
-Le soir, de retour, ils seront certainement très fatigué et se coucheront tout de suite après le dîner. 
+Le soir, de retour, ils seront certainement très fatigué et se coucheront tout de suite après le dîner.
 
 L’argent est le nerf de la guerre.
 
@@ -374,7 +374,7 @@ O.K., je lui ai donné vingt dollars, elle m'a dit qu'elle n'avait plus rien dan
 + OK, I gave her twenty dollars; she told me she had nothing left in her fridge. It's not the end of the world, **anyway**.
   
 **【finally; about time】**
-J'ai fait ce que tu m'as demandé./Nous sommes presque arrivés. 
+J'ai fait ce que tu m'as demandé./Nous sommes presque arrivés.
 — Ah, tout de même !
 
 + I've done what you asked me./We've arrived.
@@ -491,7 +491,7 @@ Ottawa compte aussi de charmantes tables, tel le Fraser Café.
 | --------------- | ------------------------------------------------------------ |
 | Lundi           | the Moon ("lune" in French) --- silver                       |
 | Mardi           | Mars, the god of war  ----- iron                             |
-| Mercredi        | Mercury, the messenger god ---- mercury                      |
+| Mercredi        | Mercury, the messenger god, which is considered as the responding god of Odin---- mercury                      |
 | Jeudi           | Jupiter, the king of the gods ---                            |
 | Vendredi        | Venus, the goddess of love and beauty --- tin                |
 | Samedi          | Saturn, the god of agriculture --- lead                      |
@@ -519,11 +519,11 @@ Ma fenêtre donne sur la mer.
 
 ### au beau milieu
 
-***au beau milieu** de l'entretien* 
+***au beau milieu** de l'entretien*
 
 + **right in the middle of** the interview
 
-***au beau milieu** de la nuit* 
+***au beau milieu** de la nuit*
 
 + **right in the middle of** the night
 
@@ -535,7 +535,7 @@ Je reviens de vacances.
 
 + I'm coming back from holiday.
   
-Je n'ai pas l'intention de revenir à Paris. 
+Je n'ai pas l'intention de revenir à Paris.
 
 + ― I am not planning on returning to Paris.
 
@@ -564,27 +564,6 @@ Mon travail repose entièrement sur mon ordinateur.
 "Ça fait" is a common French expression that can be used to talk about the total amount of money spent on something. For example, "Ça fait combien?" means "How much does it cost?" or "What's the total?" and is often used when asking about the price of something, such as in a store or at a market.
 
 "Ça ferait" can also be used to talk about the cost of something, but it's more commonly used in hypothetical or conditional situations. For example, a waiter at a restaurant might say "Ça ferait 20 euros, s'il vous plaît" to indicate the total cost of a meal that a customer is considering ordering. In this case, "ça ferait" is used to indicate a potential or estimated cost, rather than the actual amount that has been spent.
-
-### en
-
-To indicate location: "Il est en France" (He is in France).
-To indicate time: "Je pars en vacances demain" (I'm leaving for vacation tomorrow).
-To indicate the means or method: "Je vais à l'école en voiture" (I go to school by car).
-To indicate the material: "Ce livre est écrit en français" (This book is written in French).
-To indicate quantity or amount: "J'ai acheté des pommes en kilos" (I bought apples by the kilogram).
-To indicate a state or condition: "Il est en bonne santé" (He is in good health).
-To replace a noun: "Tu as mangé des gâteaux ? Oui, j'en ai mangé" (Did you eat some cakes? Yes, I ate some).
-
-"En" is used to indicate a duration of time, or the amount of time that has passed since a specific point in time. For example, "Je suis né en 1990" (I was born in 1990) or "J'ai étudié le français pendant cinq ans, en 2010" (I studied French for five years, starting in 2010).
-
-"Dans" is used to indicate a future point in time, or the amount of time that will pass before a specific event. For example, "Je vais partir en vacances dans une semaine" (I'm going on vacation in a week) or "Je vais terminer mes études dans deux ans" (I'm going to finish my studies in two years).
-
-"It's up to you" - "C'est à toi" or "C'est à vous" (formal)
-"I don't care" - "Je m'en fiche" or "Je m'en fous" (more informal)
-"What's up?" - "Quoi de neuf ?" or "Qu'est-ce qui se passe ?"
-"Let's go!" - "Allons-y !" or "Partons !"
-"No way!" - "Pas question !" or "Impossible !"
-"Hold on a second" - "Attends une seconde" or "Attendez une seconde" (formal)
 
 ### tant...que... : both... and
 
@@ -881,3 +860,186 @@ mal de  tête / dent / vivre / dos
 Je n'ai pas aimé le film... Non, je veux dire, j'ai aimé l'histoire, mais pas la mise en scène.
 
 Le concert est demain soir à 20h... Non, je voulais dire samedi soir, pas demain.
+
+### Même si & malgré
+
+Même si j'avais de l'argent, je ne l'achèterais pas.
+
++ Even if I had the money, I wouldn't buy it.
+
+Même si tu étudies dur, tu pourrais échouer.
+
++ Even if you study hard, you could fail.
+
+Malgré la pluie, nous sommes allés nous promener.
+
++ Despite the rain, we went for a walk.
+
+Il est venu au travail malgré sa maladie.
+
++ He came to work despite his illness.
+
+> Alors, Même si is often followed by a verb in the future or conditional tense to indicate a hypothetical or uncertain situation that may occur in the future.In contrast, "malgré" is usually followed by a noun or a pronoun to indicate a situation in which something is done or happens in spite of an obstacle or difficulty. 
+
+### chercher qn. des yeux
+
+Je cherchais mon ami des yeux dans la foule.
+
++ I was scanning the crowd for my friend.
+
+Elle cherchait son téléphone des yeux, mais ne pouvait pas le trouver.
+
++ She was looking around for her phone, but couldn't find it.
+
+Il a cherché sa mère des yeux pendant plusieurs minutes avant de la repérer dans la pièce.
+
++ He searched the room with his eyes for several minutes before spotting his mother.
+
+### regard *~n.~*
+
+J'ai croisé son regard dans la foule.
+
++ I caught a glimpse of his gaze in the crowd.
+
+Les regards insistants des passants me mettent mal à l'aise.
+
++ The insistent gazes of passersby make me uncomfortable.
+
+Ce tableau m'a fait changer de regard sur l'art moderne.
+
++ This painting made me change my perspective on modern art.
+
+Le regard perçant de l'aigle était fixé sur sa proie.
+
++ The eagle's piercing gaze was fixed on its prey.
+
+Le regard bienveillant de sa grand-mère lui donnait du courage.
+
++ His grandmother's kind gaze gave him courage.
+
+### de tout mon coeur
+
+Je vous remercie de tout mon coeur pour votre aide précieuse.
+
++ I thank you from the bottom of my heart for your precious help.
+
+Je soutiens cette cause de tout mon coeur.
+
++ I wholeheartedly support this cause.
+
+Je t'aime de tout mon coeur.
+
++ I love you with all my heart.
+
+### sussi...que... & ainsi que...
+
+Je parle aussi bien français que anglais.
+
++ I speak French as well as English.
+
+Mon ami est aussi mon collègue que mon confident.
+
++ My friend is both my colleague and my confidant.
+  
+Elle aime aussi bien la musique classique que le rock.
+
++ She likes both classical music as well as rock music.
+
+J'aime le chocolat, la vanille, ainsi que la fraise.
+
++ I like chocolate, vanilla, as well as strawberry.
+
+Le musée expose des peintures de Picasso, des sculptures de Rodin, ainsi que des photographies de Cartier-Bresson.
+
++ The museum exhibits paintings by Picasso, sculptures by Rodin, as well as photographs by Cartier-Bresson.
+
+>note it can also mean "as well as" or "and" to link two elements. As for a third item, use *aisin que*
+
+### non pas de
+
+On devrait prendre la route la plus courte, et non pas la plus pittoresque.
+
++ We should take the shortest route, not the most scenic.
+
+### ailleurs & d'ailleurs
+
+J'ai perdu mes clés quelque part dans la maison. Je les cherche partout, mais elles sont peut-être ailleurs.
+
++ I lost my keys somewhere in the house. I'm looking for them everywhere, but they might be somewhere else.
+
+Elle n'aime pas son travail et elle cherche un emploi ailleurs.
+
++ She doesn't like her job and she's looking for a job elsewhere.
+
+#### d'ailleurs
+
+J'aime bien les chiens. D'ailleurs, je viens d'adopter un chiot.
+
++ I really like dogs. By the way, I just adopted a puppy.
+
+Nous avons beaucoup de travail à faire. D'ailleurs, tu pourrais m'aider ?
+
++ We have a lot of work to do. Moreover, could you help me?
+
+J'aimerais aller en vacances cet été. D'ailleurs, as-tu des suggestions ?
+
++ I would like to go on vacation this summer. Besides, do you have any suggestions?
+
+### situation & position & travail & emploi
+
+"Situation" generally refers to one's overall employment status or career situation, such as whether someone is employed or unemployed, in a stable job or unstable job, or satisfied or dissatisfied with their current career.
+
+"Position" refers to the specific job or role that someone holds within a company or organization.
+
+"Travail" is the French word for work in general, without specifying a particular job or role.
+
+"Emploi" refers to a specific job or position that someone holds, similar to "position," but with more emphasis on the employment aspect rather than the job duties.
+
+### partout & partout où
+
+Il y a des fleurs partout dans le jardin.
+
++ There are flowers everywhere in the garden.
+
+Les publicités sont partout dans la ville.
+
++ Advertisements are everywhere in the city.
+  
+On peut trouver des restaurants partout dans cette ville.
+
++ You can find restaurants everywhere in this city.
+
+Le bruit est partout dans cette ville animée.
+
++ Noise is everywhere in this bustling city.
+
+Il y a des touristes partout en été.
+
++ There are tourists everywhere in the summer.
+
+**Partout où je vais**, je prends des photos.
+
++ Wherever I go, I take photos.
+
+Il y a des problèmes partout **où** on regarde.
+
++ There are problems everywhere that we look.
+
+Partout **où** tu vas, je vais avec toi.
+
++ Wherever you go, I go with you.
+
+### depuis toujours : since always, forever
+
+J'aime la musique depuis toujours.
+
++ I've loved music forever.
+
+Depuis toujours, les hommes cherchent à comprendre le monde qui les entoure.
+
++ Since always, humans have sought to understand the world around them.
+
+Depuis toujours, cette région est connue pour sa cuisine raffinée.
+
++ For as long as anyone can remember, this region has been known for its fine cuisine.
+
