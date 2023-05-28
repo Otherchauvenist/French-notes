@@ -45,14 +45,19 @@
 
 ## **\[A.\]**
 
+### ==l'aboutisement==
+
+From *aboutir* (derived from *bouter* : to persist, to push ultimately of Germanic origin, equivalent to a- + *bouter*) + -ment
+
+*cf.* *bout*
+==cognate of *push?*==
+
 ### L'ADVERSAIRE
 
 from **~[LAT]~** adversārius, from *adversus* : ad + verto
 *cf.* *versus*
 
-### AGREABLE
-
-==NEED REVISION==
+### AGRÉABLE
 
 from **~[FR]~** *agréer* (to accept) + -able
 *see* : le gré
@@ -66,6 +71,20 @@ v. alimenter
 
 **~[LAT]~** anniversārius (annual, yearly), from vertō (I turn, revolve) + annus (year).
 *cf.* anuuel, from **~[LAT]~** annualis : one-year-old
+
+### l'apparance *~f.~*
+
+Borrowed from **~[LAT]~** *apparentia* (an appearance, a becoming visible), from *apparens*, from *appareo*, ad- + *pāreō* (be visible).
+
+doublet : *paraître*, from **~[VulLAT]~** *\*pārēscere*, from **~[LAT]~** *pārēre*
+
+*cf.* *transparent*
+
+> Originally, *apparens* meant a "becoming visible"; sense of "appearance" found in Latin 
+
+### assidu
+
+comes from the **~[LAT]~** "assiduus," which means "continuous" or "unceasing", itself is derived from *assidere* : ad- + sidere (to sit near, to attend to)
 
 ### ATTIRER
 
@@ -103,7 +122,7 @@ pharmacist, a person who sells medicine, especially one who made and sold their 
 
 doublet: bodega
 
-### APPéCIER 
+### APPÉCIER 
 
 **~[LAT]~** appretiare: ad- + pretium
 
@@ -119,7 +138,7 @@ Cf. element *Ag.*
 
 From *assurer* + -ance, from **~[LAT]~** sēcūrus (“safe”), from sē- (“without”) + cūra (“care”). Similar to Latin *sine cūrā*
 
-*cf.* cure
+*cf.* cure, sûr
 
 ### AUGMENTER
 
@@ -181,6 +200,12 @@ from **~[LAT]~** carrus
 >+ **1866**, James Edwin Thorold Rogers, *A History of Agriculture and Prices in England*, Vol. 1, p. 168:
 Another element of weight is the **charrus**, carecta, or plaustrata of lead. This quantity contained thrity fontinelli, fotmael, pedes, or pigs. Each pes contained five petrae of fourteen pounds each, and therefore the pes was 70 avoirdupois pounds and the **charrus** 2100 lbs.
 
+### le champ
+
+Inherited from **~[MidFr]~** *champ*, from **~[OldFr]~** *champ*, inherited from **~[LAT]~** *campus* (field). 
+
+Doublet : camp
+
 ### LA CHANCE
 
 From **~[LAT]~** cadens, cadere : I. to fall, fail, II. happen to oc
@@ -238,6 +263,17 @@ From **~[LAT]~** *collectivus*, from *collēctus* (“collected”), *ppp.* of *
 
 *cf.* parcourir
 also seen: courir
+
+### confier
+
+Semi-learned borrowing from **~[LAT]~** *cōnfīdō* : con- + fido (I trust, put *confidence* in) , based on the existing **~[FR]~** *fier*.
+
+*cf.* *confesser* : con- + *fateor* (acknowledge, own (up to))
+
+> Note how confidence goes both ways.
+>
+>+ Self-assurance.
+>+ A feeling of certainty; firm trust or belief; faith. 
 
 ### LA CORDE
 
@@ -329,6 +365,12 @@ au cours de la guerre ― over [the course of] the war, during the war
 *v.* chômer
 **~[LAT]~** coumare : rest during the heat.
 
+### craindre
+
+Inherited from Middle French, from **~[OldFr]~** *criembre*, criendre, from **~[LAT]~** *tremere*, from **~[PIE]~** *\*trem-* (to tremble). Altered into a regional *Gallo-Romance Vulgar Latin* form *\*cremere*, with the initial **c-** under the influence of the Celtic root *\*krit-*
+
+therefore doublet of *terreur*
+
 ## **\[D\]**
 
 <a id="DÉCOUVERT">
@@ -336,6 +378,10 @@ au cours de la guerre ― over [the course of] the war, during the war
 ### DÉCOUVERT </a>
 
 From **~[OldFr]~** *descovert*, from **~[LateLAT]~** *discoopertus*, from **~[LAT]~** dis- + coopertus.
+
+### définir
+
+From **~[LAT]~** *dēfīniō* : de- + finio (set a limit, end)
 
 ### DÉPASSER
 
@@ -346,6 +392,18 @@ dé + passer
 ### LA DÉPANSE
 
 **~[LAT]~** dis- + pansare (ponder, pay, weigh)
+
+### dérouler
+
+dé- + rouler : From **~[OldFr]~** *ruele, roele* (“small wheel”), from **~[LAT]~** *rotula*.
+
+therefore
+
++ to unroll
++ (*of waves*) to break
++ **(*of events, etc., reflexive*) to unravel, to unfold**
+
+also see : *roue*
 
 ### LE DÉSASTRE
 
@@ -369,11 +427,17 @@ doublets: design, *(litrary)* dessein(intention, plan)
 
 + guess
   
-**~[LAT]~** devinus: divine,prophetic
+**~[LAT]~** *devinus*: divine,prophetic
 *cf.* devin: soothsayer, devination
 > devine quoi ?
 
+### détendre
 
+Borrowed from **~[LAT]~** *detendere* : de- + tendere : to stretch, extend
+
+doublets : attendre,
+
+*cf.* *temps*
 
 ## **\[E\]**
 
@@ -391,6 +455,13 @@ present participle of *éclater*, literaly *explosive*
 + *(literally or figuratively)* to shine
 
 > make some noise
+
+### élire
+
+Inherited from **~[MidFr]~** *eslire*, from **~[OldFr]~** *eslire*, from **~[LAT]~** *ēligere* : From ex- (out of, from) + *legō*
+
+therefore a doublet of *lire*
+
 
 ### ENTRAINER ==NEED REVISION==
 
@@ -501,6 +572,12 @@ from **~[MidFr]~** *excuser*, from **~[OldFr]~** *escuser*, borrowed from **~[LA
 
 **~[LAT]~** ex + sistere (stare)
 
+### exprimer
+
+Borrowed from **~[LAT]~** *exprimere*,  ex- + premō (press)
+
+doublets : supprimer , 
+
 ## **\[F.\]**
 
 ### FANATIQUE
@@ -515,6 +592,18 @@ Borrowed from **~[LAT]~** *fānāticus*,  *fānum*(shrine, temple, sanctuary) + 
 From **~[OldFr]~** *fleuve*, from **~[LatOldFr]~** *flueve* ~(12th cent.)~, according to the traditional view, a dissimilated form of *fluive, fluie*, a re-borrowing of **~[LAT]~** *fluvius* (“stream”)
 
 *cf.* : *rivière*
+
+### fond
+
++ back
++ bottom
++ fund; funding
++ foundation
++ (*figuratively*) basics, essence
++ background, ==whence *la course de fond / demi-fond*?==
++ (*cooking*) base
+
+From **~[OldFr]~**, from **~[LAT]~** fundus
 
 ### FORMITABLE
 
@@ -556,6 +645,10 @@ In-croy-able
 from in- + épuisable : é(away)- + puiser, from *puits (well)*
 therefore inexhaustible
 
+### insurger
+
+Borrowed from **~[LAT]~** *īnsurgere*, from in- + *surgō*, itself from  sub- + regō (lead, rule)
+
 ## **\[M.\]**
 
 ### MANIFESTER
@@ -596,6 +689,13 @@ Film, footage
 
 From **~[MidFr]~** *milieu*,from **~[OldFr]~** *milliu*, *meillieu*, from mi- (half, from **~[LAT]~** *medius*, possibly ultimately from Proto-Indo-European [*me](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/me) : around; by; in the middle of; near; with”) + lieu, leu (“place, from **~[LAT]~** *locus*)
 
+### la monnaie
+
+Inherited from **~[OldFr]~** *moneie, monoie*, from **~[LAT]~** monēta, itself from *Monēta* (a surname of Juno, in whose temple at Rome money was coined; literally, adviser), possibly from moneō (“warn, advise”)
+
++ cash
++ [coinage](https://fr.wikipedia.org/wiki/Monnaie_(institution))
+
 ### MONTRER
 
 **~[OldFr]~** monstrer < **~[LAT]~** monstrare, from monstrum
@@ -614,6 +714,20 @@ from **~[LAT]~** *nettoyer*, from **~[OldFr]~** *netoiier*, a restructuring of *
 
 Borrowed from **~[LAT]~** nota, traditionally referred to *nōscō* (“I know”), thus "a means of recognition"
 *cf.*  *nōtiō* (acquaintance, examination, whence *notion* ), *nōtitia*
+
+### le nul
+
+From **~[MidFR]~** *nul*, from **~[OldFR]~** *nul*, from **~[LAT]~** *nūllus* : ne + ūllus (“any”)
+**adj.**
+
++ of poor quality, lousy, rubbish
++ lame
+
+**n.**
+
++ (*colloquial*) a completely unskilled person
++ (*sports*) a draw
+
 
 ## **\[L.\]**
 
@@ -675,8 +789,11 @@ Sophie, open the door; I want to talk to you!
     + Allez, arrête tes bêtises et va ouvrir à Patrick ; il doit avoir froid dehors.
 Stop being silly and open the door for Patrick; he must be cold outside.
 
-*cf.* **~[LAT]~** *cooperīre* : con- + operire  (I cover wholly, cover over, overwhelm), whence [couvrir](#COUVRIR).
-**~[FR]~** [découvert](#DÉCOUVERT)
+*cf.* **~[LAT]~** *cooperīre* : con- + operire  (I cover wholly, cover over, overwhelm), whence couvrir, **~[FR]~** découvert
+
+*cf.* **~[ENG]~** aperture
+
+> The portal will ***open*** and something will happen that Subject Orange is too smart to need any instructions about in three. Two. One.
 
 ## **\[P\]**
 
@@ -697,10 +814,26 @@ magnus → permagnus (“very great, very large”)
 multī → permultī (“very many”)
 + Used to form verbs that are intensive or completive, conveying the idea of doing something all the way through or entirely.
 
+### parmi
+
+par- + -mi
+
+*cf.* **~[ENG]~** *amid*
+
+### le patron
+
+from **~[LAT]~** *patrōnus* (protecter), from *pater* (“father”)
+
+*cf.* **~[ENG]~** *patron*, qui est un faux-ami
+
 ### PAYER
 
 **~[LAT]~** pax + -o : pacare
     (pax + facio : pacificare)
+
+### la peine
+
+Inherited from **~[OldFr]~** *peine*, from **~[LAT]~** *poena*
 
 ### PERSISTER
 
@@ -814,6 +947,18 @@ Doublet : *racème*.
 
 > [see more of raison's variations in English](https://www.youtube.com/watch?v=SoFxrwuMuQs)
 
+### renaître
+
+From re- + naître (to be born), from **~[LAT]~** *nāscī*.
+
+*cf.* *renaissance*
+
+### régler
+
+From *règle* + -er, or borrowed from **~[LAT]~** *rēgulāre*, itself from *regō* (I rule, govern) + -ula.
+
+See also réguler.
+
 ### REPOSER
 
 From **~[OldFr]~** *reposer*, from **~[LateLAT]~** *repausāre*, from **~[LAT]~** pausō (pause, halt, stop, rest)
@@ -835,9 +980,45 @@ From **~[MidFr]~** *riviere*, from **~[OLdFr]~** *riviere*, from **~[VulLAT]~** 
 >*rivière* **~[ENG]~** :
 >A necklace of diamonds or other precious stones, especially one of several strings.
 
+### révolte
+
 ### LE REZ-DE-CHAUSSÉE
 
 chaussée
+
+### le roue
+
+From **~[OldLAT]~** *ruee*, from **~[LAT]~** *rota*. The current form may have been influenced by *rouer* and *rouelle*
+
+doublet : *rote* ： A kind of guitar, the notes of which were produced by **a small wheel or wheel-like** arrangement; an instrument similar to the hurdy-gurdy.
+
+*cf.* : *rouler*
+
++ to roll
++ to revolve
++ (*colloquial*) to go (of events, to proceed)
++ Ça roule bien chez mon ami.
++ It's going well at my friend's house.
++ (*of a vehicle*) to work, to function
+
+>Fortune rota volvitur;
+descendo minoratus;
+alter in altum tollitur;
+nimis exaltatus
+rex sedet in vertice
+caveat ruinam!
+
+### le roux
+
+Inherited from **~[OldFR]~** *ros*, from **~[LAT]~** *russus* : red.
+
++ redhead (man) 
++ **(*cooking*) [roux](https://en.wikipedia.org/wiki/Roux) (a mixture of fat and flour)**
+
+---
+
++ russet
++ red, ginger (of hair)
 
 ## **\[S.\]**
 
@@ -846,9 +1027,17 @@ chaussée
 from **~[LAT]~** saltāre
 *cf.*  resultāre : to spring forward, rebound, whence *résultat*
 
+### séduisant
+
+from *séduire*, Altered or Gallicized from **~[LAT]~** seducere, based on other verbs such as *conduire, réduire*, etc
+
 ### SOUDAIN
 
 **~[LAT]~** *subitus* (“sudden, unforeseen”) + -āneus, from **~[LAT]~** subire : undergo
+
+### souffrir
+
+Inherited from Old French, from **~[LAT]~** *sufferre*, from sub + ferō : facio.
 
 ### STRICT
 
@@ -865,7 +1054,6 @@ doublet :
 + to hug (embrace)
 + to clutch, grip
 
-
 ### SUIVRE
 
 **~[LAT]~** sequor
@@ -880,13 +1068,28 @@ doublet :
 from **~[FR]~** surpris, the *pp.* of surprendre: to surprise
 *see:* [surprendre](#SURPRENDRE)
 
+### sûr
+
+Inherited from **~[MidFr]~** *sceur*, from **~[OLdFr]~** *seür*, inherited from **~[LAT]~** *sēcūrus*, itself from sē- + cūra; see cure. Similar to **~[LAT]~** *sine cūrā* (“without care, carefree”)
+
+see also *l'assurance*
+
+
+
 ### SURPRENDRE
 
 <a id="SURPRENDRE"></a>
-sur- (over) + -prendre
+
+sur- (over) + -prendre.  In old French *sorprendre* (“to overtake”) (from sor- (“over”); cf. sur-) was distinguished from *sousprendre* (“to surprise, catch unaware”) (from sous-); the two verbs later became one over time.
 *SYN*: étonner
 
 ## **\[T.\]**
+
+### tendre
+
+Inherited from **~[OldFr]~** *tendre*, from **~[LAT]~** *tendere*.
+
+doublet of *tendance*
 
 ### TRAJET
 
@@ -906,6 +1109,12 @@ For *trānsquīlusfrom trāns- + the root of quiēs.
 **~[LAT]~** tolerare (to bear, endure, tolerate): toler-(a holding up, bearing) + -are
 *cf.* tollere : to lift up, raise, bear, remove
 
+## **\[U.\]**
+
+### l'unanimité
+
+Borrowed from **~[LAT]~** *ūnanimitātem* : *unus* + *animus*
+
 ## **\[V.\]**
 
 ### LES VACANCES
@@ -918,14 +1127,32 @@ For *trānsquīlusfrom trāns- + the root of quiēs.
 
 *cf.* *vide*
 
+### la vedette
+
+Borrowed from **~[ITA]~** *vedetta*, influenced by *vedere*, from **~[LAT]~** *videre*
+
++ *(military, historical)* [vedette](https://en.wikipedia.org/wiki/Vedette_(sentry)) (sentry)
+
+### le verre
+
+From **~[MidFr]~** *voirre* ， from **~[OldFr]~** *voirre*, from **~[LAT]~** *vitrum*, from **~[PIE]~** \*wed-ro- (water-like), from [\*wed-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/wed-) (water)
+
+*cf.* **~[ENG]~** *water*,  from **~[PIE]~** *\*wódr̥*
+
+>***early but normal after labials.***
+>The irregular evolution of the sound **/wɛ/** into **/ɛ/** in certain words can be attributed to a phonetic phenomenon known as *"early but normal after labials."* This refers to the tendency for the sound **/wɛ/** to shift to **/ɛ/** when it occurs before labial consonants (such as **/p/, /b/, /m/**).
+>
+>In the case of the word "verre," which starts with the sound **/v/** (a labial consonant), the **/wɛ/** sound underwent this phonetic shift, resulting in the pronunciation **/vɛʁ/**. This sound change is specific to the French language and has occurred over time in various words where **/wɛ/** appears before labial consonants.
+> For other examples, compare *François* vs. *Français*, *roide* vs. *raide*.
+
 ### VOIRE
 
 Inherited from **~[LAT]~** vēra, plural of vērus. Doublet of *vrai*, ultimately from **~[LAT]~** vērāx, itself from vērus.
 
 ### LE VOL
 
-1.	Theft;
-2.	Flight
+1. Theft;
+2. Flight
 *cf.* voler: fly
 
 >~~-Qui vole au ciel ?

@@ -33,15 +33,11 @@ Après sa toilette, elle a fait la lecture à l’eau tiède.
 
 Elle est aussi/moins/plus grande que son frère.
 
----
-
 ### Aujourd’hui == maintenant
 
-*e.g.* Avec un peu de chance, j’aurai un métier plus intéressant qu’aujourd’hui.
+Avec un peu de chance, j’aurai un métier plus intéressant qu’aujourd’hui.
 
-Je n’en ai aucune idée.
-
----
+### Je n’en ai aucune idée. == Je n'ai pas la moindre idée
 
 ### Voilà comment…
 
@@ -579,13 +575,13 @@ Je travaille en tant qu'ethnologue.
 
 + I work as an ethnologist.
 
+En tant qu'écribain le plus renommé du XX^e^ siecèle, Marcel Prouste exprime sa réflexion sur le moi par des phrases longues et précises.
+
 ---
 
 je le sais juste ！ == I just know it!
 
 ### sur le point de : on the point of doing (indicating time)
-
-### manquer & manquer de faire
 
 ### ..., c'est (que/de)...
 
@@ -681,7 +677,7 @@ Il faut qu'il y ait une solution à ce problème.
 
 ### manquer : miss (in two senses)
 
-J'ai manqué mon train ce matin.
+J'ai manqué mon train ***de 5 minutes*** ce matin.
 
 + I missed my train this morning.
 
@@ -689,17 +685,19 @@ Tu me manques tellement quand tu n'es pas là.
 
 + I miss you so much when you're not here.
 
-Il ne veut pas manquer l'occasion de partir en vacances.
+Il ne veut pas **l'occasion de partir en vacances.**
 
 + He doesn't want to miss the opportunity to go on vacation.
 
-Nous avons manqué notre rendez-vous à cause de la circulation.
+vous n'avez rien manqué, ce film était ennuyeux.
 
-+ We missed our appointment because of traffic.
-
-Le joueur a manqué la balle et a perdu le point.
+Le joueur a manqué la balle ***de peu*** et a perdu le point.
 
 + The player missed the ball and lost the point.
+
+> note how ***de...*** is used to express extends.
+
+sa maladie lui a fait manquer plusieurs cours.
 
 #### (ne pas) manquer de faire
 
@@ -879,7 +877,7 @@ Il est venu au travail malgré sa maladie.
 
 + He came to work despite his illness.
 
-> Alors, Même si is often followed by a verb in the future or conditional tense to indicate a hypothetical or uncertain situation that may occur in the future.In contrast, "malgré" is usually followed by a noun or a pronoun to indicate a situation in which something is done or happens in spite of an obstacle or difficulty. 
+> Alors, Même si is often followed by a verb in the future or conditional tense to indicate a hypothetical or uncertain situation that may occur in the future.In contrast, "malgré" is usually followed by a noun or a pronoun to indicate a situation in which something is done or happens in spite of an obstacle or difficulty.
 
 ### chercher qn. des yeux
 
@@ -1042,4 +1040,370 @@ Depuis toujours, les hommes cherchent à comprendre le monde qui les entoure.
 Depuis toujours, cette région est connue pour sa cuisine raffinée.
 
 + For as long as anyone can remember, this region has been known for its fine cuisine.
+
+### se tomper : for self-correction
+
+New York est la capitale des États-Unis. Ah non, je me trompe, c'est Washington.
+
++ New York is the capital of the United states. Wait, I'm wrong, it's Washington.
+
+---
+### from p205
+
+pendant tout l'hiver son travail a été d'etre étudiant
+
++ all winter his job was to be a student
+
+le jour de l'examen mets ton tailleur noir
+
+*cf.* Mets ton tailleur noir ***à*** le jour de l'examen.
+
+tout le monde à paris, ***semble-t-il***, se prepare aux examens
+
+>"Semble-t-il" is not a question in this sentence. It is an idiomatic expression that means "it seems" or "apparently" and is often used to introduce a personal opinion or an assumption based on observation.
+
+### comme il faut
+
+Il a agi comme il faut.
+
++ He acted appropriately.
+
+Elle a préparé le dîner comme il faut.
+
++ She prepared dinner properly.
+
+Tu dois t'habiller comme il faut pour l'entrevue d'emploi.
+
++ You need to dress appropriately for the job interview.
+
+Il a répondu à la question comme il faut.
+
++ He answered the question correctly.
+
+Nous devons tous nous comporter comme il faut pendant la cérémonie.
+
++ We all need to behave properly during the ceremony.
+
+> Alors, "comme il faut" usually means "appropriately" or "properly", rather than "as you must" or "as demanded". It's often used to describe behavior that is socially acceptable or expected.
+
+### indication of progressive
+
+être + en train de + infinitive:
+
++ Je suis en train de manger.
+
+the present tense:
+
++ Je lis un livre.
+
+être occupé(e) à" + infinitive:
+
++ Il est occupé à travailler.
+
+être en pleine action:
+
++ Elle est en pleine action de réparation.
+
+**cf.** **être à la + infinitive** : putting emphasis on the activity or action of searching, highlighting that the subject is actively engaged in the process. It conveys a sense of purpose or determination in seeking or pursuing something.
+
+Nous sommes à la recherche d'une solution.
+
++ We are looking for a solution.
+
+### servir
+
+#### Servir (à qn.)
+
+"to serve" or "to be of service." used when someone is providing a service or assisting others.
+
+ce restaurant nous a mal servi aujourd'hui.
+
+il n'arrive plus à se faire servir.
+
+Je sers le dîner à mes invités.
+
++ I serve dinner to my guests.
+
+#### Se servir
+
+to help oneself / to use , indicating the action of serving oneself or taking something for personal use.
+
+Je me sers un verre d'eau.
+
++ I help myself to a glass of water.
+
+
+to serve as / to be used as, used when something or someone is used in a specific role or function.
+
+Cette cuillère sert de mesure
+
+#### Servir de (à qn.)
+
++ This spoon serves as a measure.
++ cette chambre me sert de cabient de travail.
++ Comme l'istoire d'aujourd'hui nous sert de lecon.
+
+#### Servir à / faire
+
+> to be used for / to serve a purpose, indicating the purpose or function of something.
+
+ce ciseau lui sert à couper les cheveux.
+
+Ce couteau sert à couper les légumes
+
++ This knife is used for cutting vegetables.
+
+### J'ai pensé que...
+
+\- Tu as vu le film?
+\- Quoi, j'ai pensé qu'il serait joué demain.
+
+### également," "encore," and "aussi"
+
+#### Également: also / likewise
+
+add another item to a list / mphasize that something applies to more than one thing. For example: "J'aime la musique et le cinéma également." (I equally like music and movies.)
+
+"Encore" means "still" or "again," and is used to indicate that something is continuing or repeating. It can also be used to express the idea of "yet" or "more." For example: "Je n'ai pas encore fini." (I haven't finished yet.)
+
+"Aussi" means "also" or "as well," and is used to add another item to a list or to make a comparison. It can also be used to mean "therefore" or "so." For example: "Je suis intéressé par la musique, mais aussi par le cinéma." (I'm interested in music, but also in movies.) "Il est fatigué, aussi il va se coucher." (He's tired, so he's going to bed.)
+
+### length
+
+un lit 1.8m **×** 2.1m : par
+
+1m80 : un metre quatre-vingts
+
+### direction
+
+en direction...
+
+... se trouve dans le nord de la Chine
+
+### prendre / donner / fixer un render-vous
+
+### au plus tard / | au pire : for the worst situation
+
+### je ne supporte pas : I can't take it
+
+### réagir
+
+Si nous ne riions pas des choses absurdes, nous ne réagirions pas devant la vie.
+
+Ils ont réagi prudemment à cette proposition.
+
+### marquer : mark
+
+Louis XIV a marqué une époque.
+
+La mort de son perè a marqué sa jeunesse
+
+son milieu l'a marquée.
+
+Prendre un bain chaud vous aide à vous endormir plus vite;
+
+### changer de / changer qch.
+
+Tu doit changer de train à Lille.
+
+Il change d'avie comme de chemise
+
+Avec le temps, le rideau a changé de couleur
+
+**chenger de projet : projet A > projet B**
+
+**chenger le projet : projet 1.1 > 1.2**
+
+### reconnaître + inf. / qch.
+
+On a fini par reconnaître son innocence.
+
+Je n'ai été qu'une fois chez lui, mais je reconnais facilement se maison.
+
+Je recinnais m'etre trempé.
+
+### comme si : like
+
+Vous ne cessez pas de vous adresser à moi comme si nous nous connaissions vraiment.
+
+Il se casse comme si c'était du verre.
+
+### avoir beau : in vain, despite doing something
+
+### ressembler (to resemble / to look like) & sembler (to seem / appear)
+
+Il semble fatigué aujourd'hui
+
+
+Les jours se suivent et se ressemblent.
+
+La politique du nouveau Président ne ressemble **en rien** celui de son prédécesse.
+
+#### resembler à
+
+le style resemble à l'homme.
+
+### ne... rien & ne... en rien
+
+j'ai vu un monstre qui ne resemble rien tu sais.
+
+La politique du nouveau Président ne ressemble en rien celui de son prédécesse.
+
+e ne vois rien.
+
++ I don't see anything.
+
+Je ne vois en rien le lien entre ces deux événements.
+
++ I don't see any connection between these two events.
+
+> The expression "ne...rien" is a negation that simply means "not...anything" or "nothing." It is used to negate the presence or existence of something. On the other hand, "ne...en rien" is a stronger expression that emphasizes a complete denial or absence of something. It implies that there is absolutely no connection, relevance, or involvement in the matter being discussed.
+
+### joindre & rejoindre
+
+joindre qn. au téléphone
+
+je n'arrive pas à la joindre.
+
+### craidre qch. / de faire qch.
+
+Le chien craint les feux d'artifice.
+
++ The dog is afraid of fireworks.
+  
+Elle craint de prendre l'avion.
+
++ She is afraid of flying.
+  
+Ils craignent de perdre leur emploi.
+
++ They fear losing their jobs,
+
+J'ai perdu mon portefeuille. — Merde, ça craint.
+
++ I've lost my wallet. — Shit, that sucks.
+
+craignant d'etre en retard, il se dépêche.
+
+Dépêche-toi, là. Faut qu'on arrive à l'heure de temps en temps. 
+
++ Hurry up there. We have to arrive on time every so often.
+
+### tromper
+
+vous devez vous tromper
+
+### intervenir
+
+si les choses s'aggravent, les policiers interviendront.
+
+### s'organiser
+
+le pouvoir s'organise comme une pyramide.
+
+### je ne sais quoi faire
+
+### autour de & au milieu de
+
+### à propos de (+ n. avec art.) / à qn. == au sujet de == sur
+
+il fait un discours à propos des valeurs de l'entreprise.
+
+***A quel propos?***
+
++ ***what for***
+
+### prétendre != **~[ENG]~** pretend
+
+Il prétend être le meilleur joueur de football de tous les temps. (He claims to be the greatest football player of all time.)
+Les politiciens prétendent vouloir changer les choses, mais leurs actions ne suivent pas leurs paroles. (Politicians claim to want to change things, but their actions don't match their words.)
+Le suspect prétendait être innocent, mais les preuves contre lui étaient accablantes. (The suspect claimed to be innocent, but the evidence against him was overwhelming.)
+
+#### se prétendre
+
+Ils se prétendent les meilleurs amis du monde.
+
+### tomber
+
+### plutôt
+
+#### rather, instead *(indicating preference)*
+
+Je n'aime pas le rouge. Je prends plutôt le noir.
+
++ I don't like the red one. I'll take the black one instead.
+
+N'importe quoi plutôt que de faire face à la réalité.
+
++ Anything but face reality.
+
+#### rather *(introducing a correction or clarification)*
+
+Il y en aura assez, ou plutôt pas trop.
+
++ There'll be enough of it, or rather too much.
+
+#### (before an adjective) rather, pretty, kind of
+
+Ce bar est plutôt sale.
+
++ This bar is pretty dirty.
+
+### tandis que & en attendant
+
+En attendant son train, elle lisait un livre.
+
++ Meanwhile, she was reading a book while waiting for her train.
+
+En attendant la réponse, nous continuons à travailler sur le projet.
+
++ In the meantime, we continue working on the project while waiting for the response.
+
+En attendant le bus, j'ai discuté avec un ami.
+
++ While waiting for the bus, I chatted with a friend.
+
+En attendant leur tour, les enfants jouaient dans le parc.
+
++ Meanwhile, the children were playing in the park, waiting for their turn.
+
+### tendre à & avoir tendance à
+
+### clip from p189
+
+-- Cela n'a aucun rapport avec les vacances... ou plutôt si !
+
+### régler
+
+#### to sort out, to settle (a problem, a bill)
+
+On va régler le problème tout de suite.
+
++ We will sort out that problem immediately.
+
+#### to set, to adjust
+
+Régler le réveil pour 8 heures.
+
++ Set the alarm for 8 o'clock.
+
+### résoudre
+
+#### (*transitive*) to resolve (to find a solution to)
+
+résoudre un problème, une difficulté, un conflit, un mystère ― to resolve a problem, a difficulty, a conflict, a mystery
+
+#### *(reflexive, followed by à)* to resolve, to make up one's mind
+
+Je hais les voyages et les explorateurs. Et voici que je m'apprête à raconter mes expéditions. Mais que de temps pour m'y résoudre!
+
++ I hate travelling and explorers. Yet here I am proposing to tell the stories of my expeditions. But how long it has taken me to make up my mind to do so !
+
+### il suffit de inf. pour ...
+
+Il suffit de prendre ce médication pour calmer les maux de tete.
+
+### ... par ...
+
+### l'avenir and le futur
 
