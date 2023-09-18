@@ -79,7 +79,7 @@ Le sort *~(fate)~*, le malheur, le remords *~(regrets)~* qui le poursuit.
 
 ## sur-le-champ
 
-
+现行
 
 ## D’où
 
@@ -157,8 +157,6 @@ Quand j’étais petite, j’ai reçu un Polaroïd. C’est l’appareil *~(divi
 
 donc ces deux expressions sont interchangeables, ou elles sont ***en quelque sorte*** différentes en termes d'émotion
 
-
-
 ## au... : limits
 
 au moins, au plus tard/tot, au pire *~(for the worst)~*
@@ -183,7 +181,6 @@ devoir à rendre
 choix à faire
 
 ## garder : keep
-
 
 ## en particulier
 
@@ -214,13 +211,13 @@ poser, interroger, demander,
 
 ### work, function
 
-functionner, couler
+functionner, couler, marcher
 
 ### mean
 
 ### think
 
-pensee, croire, supposer, apparaître (à qn.), 
+pensee, croire, supposer, apparaître (à qn.), render compt 
 
 ## part
 
@@ -243,3 +240,73 @@ tout à fait
 exactement
 effectivement
 absolument
+
+## à but non lucratif
+
+## davantage : comperative, more
+
+Pourquoi ne ferions nous pas bûcher ***davantage*** nos citoyens afin de pouvoir dorloter nos citoyennes ? Cela serait profondément naturel et juste.
+
+Chaque coup m’abrutissait *~(overwhelm, mais mieux, submerger ou accabler)~* ***davantage*** mais en même temps me raffermissait *~(Rendre plus ferme)~* dans ma décision : ne pas céder à ces brutes qui se flattaient d’être les émules de la Gestapo.
+
+### ...times more
+
+Une heure auparavant, j’avais cru que Mauricette serait l’héroïne de mon aventure… Sa mère m’enflammait dix fois ***davantage***.
+
+## ne te dépêche pas
+
+## Agreement of the past participle
+
+compare following examples:
+
+### I agreed
+
+Hubert-Jean a regardé sa fille gagner la course
+Hubert-Jean l’a regard**ée** gagner la course
+
+On a entendu les voix résonner *~(echoing)~* dans la caverne *~(cave)~*
+On les a entendu**es** résonner dans la caverne
+Ce sont les voix qu’ on a entendu**es** résonner dans la caverne
+
+> les voix is the subject of résonner and the object of entendu
+
+### II not agreed
+
+Nathalie a vu maltraiter *~(mistreat)~* des animaux.
+Nathalie les a vu maltraiter.
+
+Hubert-Jean a regardé détruire la forêt par des bulldozers.
+Hubert-Jean l’a regardé détruire par des bulldozers.
+
+### III not agreed
+
+Nathalie a vu écraser sa maison par une énorme roche
+C’est sa maison que Nathalie a vu écraser par une énorme roche
+
+Hubert-Jean a regardé détruire la forêt par des bulldozers
+Voilà la forêt que Hubert-Jean a regardé détruire par des bulldozers
+
+### IV reflexive - not agreed
+
+#### i - indirect object
+
+#### ii - appositive
+
+## laid
+
+Ce meuble est laid.
+Cette maison, cette tapisserie, cette étoffe est ***fort laide***.
+Le temps est ***bien laid***.
+
+Bien et mal sont d'ailleurs intimement liés à beau et laid. Une mauvaise action est qualifiée d'affreuse *~(awful)~* au même titre qu'une peinture jugée inesthétique. On dit à un enfant : « C'est très ***laid*** ce que tu as fait là », et on parle d'un beau geste.
+
+### laid comme les sept péchés capitaux / péché mortel （peccatum mortale）
+
+L'abbé, moins laid que sa soeur, laide comme le péché quand il est scandaleux, était laid, lui, comme le péché quand il est plaisant.
+
+> NB cf. *pêcher*
+
+## buzz : popular, being topic
+
+### faire le buzz : faire du bruit
+
